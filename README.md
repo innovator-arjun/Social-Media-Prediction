@@ -12,3 +12,9 @@ Step 1: run any notebook ie. ipynb
 
 Step 2: A csv file will be generated (model prediction on the test data after training)
 
+
+# Contributors:
+Arjun Vaithilingam Sudhakar
+Balaji Balasubramanian
+Patcharin Cheng
+
